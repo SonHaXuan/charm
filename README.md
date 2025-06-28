@@ -54,3 +54,4 @@ Licensing
 =========
 
 Charm is released under an LGPL version 3 license due to libraries that we build on. See the `LICENSE.txt` for details.
+

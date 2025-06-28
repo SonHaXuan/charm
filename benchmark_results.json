@@ -1,0 +1,152 @@
+[
+  {
+    "size_kb": 1,
+    "successful_iterations": 2,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 7.427000000006956,
+      "cpu_percent": 35.25,
+      "memory_kb": 160.0
+    },
+    "decryption": {
+      "time_ms": 5.150125000113803,
+      "cpu_percent": 30.75,
+      "memory_kb": 0.0
+    }
+  },
+  {
+    "size_kb": 10,
+    "successful_iterations": 2,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 9.015395999995235,
+      "cpu_percent": 41.35,
+      "memory_kb": 64.0
+    },
+    "decryption": {
+      "time_ms": 6.467457999974613,
+      "cpu_percent": 33.8,
+      "memory_kb": 136.0
+    }
+  },
+  {
+    "size_kb": 100,
+    "successful_iterations": 3,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 9.64054133320739,
+      "cpu_percent": 45.300000000000004,
+      "memory_kb": 522.6666666666666
+    },
+    "decryption": {
+      "time_ms": 6.898875000085051,
+      "cpu_percent": 36.03333333333333,
+      "memory_kb": 202.66666666666666
+    }
+  },
+  {
+    "size_kb": 250,
+    "successful_iterations": 3,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 10.4266529999677,
+      "cpu_percent": 45.0,
+      "memory_kb": 864.0
+    },
+    "decryption": {
+      "time_ms": 7.573235999946822,
+      "cpu_percent": 38.56666666666667,
+      "memory_kb": 405.3333333333333
+    }
+  },
+  {
+    "size_kb": 500,
+    "successful_iterations": 3,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 11.786180999934004,
+      "cpu_percent": 49.76666666666667,
+      "memory_kb": 1328.0
+    },
+    "decryption": {
+      "time_ms": 8.581902666643751,
+      "cpu_percent": 40.26666666666667,
+      "memory_kb": 90.66666666666667
+    }
+  },
+  {
+    "size_kb": 750,
+    "successful_iterations": 1,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 14.067250000152853,
+      "cpu_percent": 57.1,
+      "memory_kb": 1760.0
+    },
+    "decryption": {
+      "time_ms": 9.466750000001412,
+      "cpu_percent": 43.0,
+      "memory_kb": 0.0
+    }
+  },
+  {
+    "size_kb": 1024,
+    "successful_iterations": 3,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 14.900652999964828,
+      "cpu_percent": 54.300000000000004,
+      "memory_kb": 2698.6666666666665
+    },
+    "decryption": {
+      "time_ms": 10.692236000068078,
+      "cpu_percent": 46.93333333333334,
+      "memory_kb": 2053.3333333333335
+    }
+  },
+  {
+    "size_kb": 5120,
+    "successful_iterations": 2,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 47.47374999999465,
+      "cpu_percent": 78.45,
+      "memory_kb": 23240.0
+    },
+    "decryption": {
+      "time_ms": 33.20220800003426,
+      "cpu_percent": 72.30000000000001,
+      "memory_kb": 5280.0
+    }
+  },
+  {
+    "size_kb": 7168,
+    "successful_iterations": 2,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 61.689687500006585,
+      "cpu_percent": 82.4,
+      "memory_kb": 8376.0
+    },
+    "decryption": {
+      "time_ms": 44.23720800014053,
+      "cpu_percent": 78.2,
+      "memory_kb": 16.0
+    }
+  },
+  {
+    "size_kb": 10240,
+    "successful_iterations": 3,
+    "total_retries": 0,
+    "encryption": {
+      "time_ms": 88.56455599993751,
+      "cpu_percent": 87.0,
+      "memory_kb": 28485.333333333332
+    },
+    "decryption": {
+      "time_ms": 60.898319333318796,
+      "cpu_percent": 82.36666666666667,
+      "memory_kb": 1365.3333333333333
+    }
+  }
+]
